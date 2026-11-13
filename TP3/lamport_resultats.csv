@@ -1,0 +1,5 @@
+processus;duree_s;perte_pct;panne_pct;messages_envoyes;messages_livres;messages_perdus;entrees_SC;attente_moyenne_ms
+3;18;0;100;35;33;2;4;3080.8
+3;18;0;100;36;36;0;5;2548.4
+3;18;0;100;35;33;2;4;3005.0
+3;12;30;0;9;4;5;0;0.0
